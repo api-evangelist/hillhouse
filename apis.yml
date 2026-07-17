@@ -1,0 +1,77 @@
+aid: hillhouse
+name: Hillhouse Investment
+description: >-
+  Hillhouse Investment (formerly Hillhouse Capital) is a global investment firm
+  founded in 2005 by Lei Zhang with seed capital from the Yale University
+  endowment, and is one of Asia's largest private-market investors, managing an
+  estimated US$100 billion in assets as of 2026. Headquartered in Singapore with
+  offices in Hong Kong, Beijing, Shanghai, New York, London, and Abu Dhabi, the
+  firm invests globally across all stages of a company's life cycle, spanning
+  public equities, growth equity, private equity buyouts, venture capital
+  (through its early-stage arm GL Ventures, launched in 2020), and real assets.
+  Hillhouse describes itself as disciplined and pragmatic investors who
+  prioritize business fundamentals and deep, bottom-up industry research, with
+  sector focus on healthcare, industrials, energy transition, business services,
+  and consumer. Its portfolio spans companies headquartered in more than 25
+  countries and has included category-defining businesses such as Tencent,
+  JD.com, Baidu, Zoom, BeiGene, Miniso, Airbnb, Uber, and Didi. Backers have
+  historically included major university endowments (Yale, Stanford, Princeton,
+  MIT, University of Pennsylvania, University of Texas) and CPPIB.
+x-type: venture-capital
+x-category: Growth Equity
+image: https://www.hillhouseinvestment.com/favicon.ico
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Growth Equity
+  - Private Equity
+  - Series A
+  - Growth
+  - Healthcare
+  - Consumer
+  - Industrials
+  - Technology
+  - Asia
+  - Singapore
+  - Global
+apis: []
+common:
+  - type: Website
+    url: https://www.hillhouseinvestment.com
+  - type: Portfolio
+    url: portfolio/hillhouse-portfolio.yml
+  - type: Team
+    url: https://www.hillhouseinvestment.com/team/
+  - type: InvestmentThesis
+    url: https://www.hillhouseinvestment.com/our-heritage/
+  - type: News
+    url: https://www.hillhouseinvestment.com/news/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hillhouse-capital-management
+  - type: Crunchbase
+    url: https://www.cbinsights.com/investor/hillhouse-capital-management
+  - type: Contact
+    url: mailto:contactus@hillhouseinvestment.com
+  - type: Features
+    data:
+      - 'Stage: all stages (public equities, growth equity, private equity buyouts, early-stage venture via GL Ventures)'
+      - 'Sectors: healthcare, industrials, energy transition, business services, consumer, technology'
+      - 'Geography: global (companies HQ in 25+ countries); offices in Singapore, Hong Kong, Beijing, Shanghai, New York, London, Abu Dhabi'
+      - 'AUM: ~US$100B (2026, reported)'
+      - 'Founded: 2005'
+      - 'Founder: Lei Zhang (Zhang Lei), Chairman and CEO'
+      - 'HQ: Singapore'
+    sources:
+      - https://en.wikipedia.org/wiki/Hillhouse_Investment
+      - https://www.hillhouseinvestment.com/our-heritage/
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: https://apisjson.org
+  - FN: Hillhouse Investment
+    url: https://www.hillhouseinvestment.com

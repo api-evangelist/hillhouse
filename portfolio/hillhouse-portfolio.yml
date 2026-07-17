@@ -1,0 +1,169 @@
+generated: '2026-07-17'
+method: searched
+source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+summary:
+  portfolio_total: 14
+  in_network: 5
+  api_providers: 4
+  missing: 9
+  stubs_created: 0
+companies:
+- name: Tencent
+  url: https://www.tencent.com
+  description: Technology conglomerate spanning social, gaming, fintech, and cloud (WeChat, QQ).
+  sector: technology
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  slug: wechat
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: JD.com
+  url: https://www.jd.com
+  description: Chinese e-commerce and logistics platform.
+  sector: e-commerce
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  slug: jd-com
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Baidu
+  url: https://www.baidu.com
+  description: Chinese internet search, AI, and autonomous driving company.
+  sector: technology
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: baidu
+- name: Zoom
+  url: https://www.zoom.us
+  description: Cloud video communications and collaboration platform.
+  sector: software
+  stage: series-b
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  slug: zoom
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: BeiGene
+  url: https://www.beigene.com
+  description: Global oncology biotechnology company developing cancer therapies.
+  sector: biotech
+  stage: growth
+  status: ipo
+  lead: true
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: beigene
+- name: Belle International
+  url: https://www.belle.com.cn
+  description: Chinese footwear and apparel retailer.
+  sector: retail
+  stage: growth
+  status: acquired
+  lead: true
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: belle-international
+- name: GLP
+  url: https://www.glp.com
+  description: Global logistics real estate and infrastructure provider.
+  sector: logistics
+  stage: growth
+  status: acquired
+  lead: true
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: glp
+- name: Miniso
+  url: https://www.miniso.com
+  description: Global lifestyle products and variety retail brand.
+  sector: retail
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: miniso
+- name: Little Freddie
+  url: https://www.littlefreddie.com
+  description: Organic baby food and infant nutrition brand.
+  sector: consumer
+  stage: growth
+  status: active
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: little-freddie
+- name: Versuni
+  url: https://www.versuni.com
+  description: Consumer home appliances company (formerly Philips Domestic Appliances).
+  sector: consumer
+  stage: growth
+  status: acquired
+  lead: true
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: versuni
+- name: LifeStyles Healthcare
+  url: https://www.lifestyleshealthcare.com
+  description: Sexual wellness and condom products manufacturer.
+  sector: healthcare
+  stage: growth
+  status: acquired
+  lead: true
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: lifestyles-healthcare
+- name: Airbnb
+  url: https://www.airbnb.com
+  description: Global online marketplace for lodging and travel experiences.
+  sector: travel
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  slug: airbnb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Uber
+  url: https://www.uber.com
+  description: Global ride-hailing, delivery, and mobility platform.
+  sector: mobility
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  slug: uber
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Didi
+  url: https://www.didiglobal.com
+  description: Chinese ride-hailing and mobility platform.
+  sector: mobility
+  stage: growth
+  status: ipo
+  lead: false
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  in_network: false
+  is_api_provider: false
+  suggested_slug: didi

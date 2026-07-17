@@ -1,0 +1,67 @@
+generated: '2026-07-17'
+method: derived
+source_vc: hillhouse
+leads:
+- name: Baidu
+  url: https://www.baidu.com
+  suggested_slug: baidu
+  sector: technology
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: BeiGene
+  url: https://www.beigene.com
+  suggested_slug: beigene
+  sector: biotech
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: Belle International
+  url: https://www.belle.com.cn
+  suggested_slug: belle-international
+  sector: retail
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: GLP
+  url: https://www.glp.com
+  suggested_slug: glp
+  sector: logistics
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: Miniso
+  url: https://www.miniso.com
+  suggested_slug: miniso
+  sector: retail
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: Little Freddie
+  url: https://www.littlefreddie.com
+  suggested_slug: little-freddie
+  sector: consumer
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: Versuni
+  url: https://www.versuni.com
+  suggested_slug: versuni
+  sector: consumer
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: LifeStyles Healthcare
+  url: https://www.lifestyleshealthcare.com
+  suggested_slug: lifestyles-healthcare
+  sector: healthcare
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
+- name: Didi
+  url: https://www.didiglobal.com
+  suggested_slug: didi
+  sector: mobility
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
