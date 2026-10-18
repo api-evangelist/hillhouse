@@ -3,9 +3,9 @@ method: searched
 source: https://en.wikipedia.org/wiki/Hillhouse_Investment
 summary:
   portfolio_total: 14
-  in_network: 14
+  in_network: 13
   api_providers: 4
-  missing: 0
+  missing: 1
   stubs_created: 0
 companies:
 - name: Tencent
@@ -16,7 +16,7 @@ companies:
   status: ipo
   lead: false
   source: https://en.wikipedia.org/wiki/Hillhouse_Investment
-  slug: wechat
+  slug: tencentcloud
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -136,10 +136,10 @@ companies:
   status: acquired
   lead: true
   source: https://en.wikipedia.org/wiki/Hillhouse_Investment
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: lifestyles-healthcare
-  matched_by: name-slug
+  x-name-collision: lifestyles-healthcare
+  suggested_slug: lifestyleshealthcare-com
 - name: Airbnb
   url: https://www.airbnb.com
   description: Global online marketplace for lodging and travel experiences.

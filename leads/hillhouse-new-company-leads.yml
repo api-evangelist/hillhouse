@@ -1,4 +1,11 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: hillhouse
-leads: []
+leads:
+- name: LifeStyles Healthcare
+  url: https://www.lifestyleshealthcare.com
+  suggested_slug: lifestyleshealthcare-com
+  sector: healthcare
+  source_vc: hillhouse
+  source: https://en.wikipedia.org/wiki/Hillhouse_Investment
+  stub_created: false
